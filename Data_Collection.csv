@@ -1,0 +1,103 @@
+ID,Customer Type,Clothing Item,"Interaction
+Type","Customer
+Mood",Outcome,Busy Level,Duration
+1,Child,Hoodie,Size Check,Happy,Bought,2,1.5
+2,Teen,Jeans,Colour Choice,Neutral,Bought,3,2.2
+3,Young Adult,Jacket,Style Advice,Unsure,Didn't Buy,2,2.5
+4,Adult,Accessories,Price Check,Happy,Bought,1,1.8
+5,Elder,T-shirt,Return/Exchange,Frustrated,Didn't Buy,2,2.7
+6,Child,Jacket,Size Check,Neutral,Bought,2,1.9
+7,Teen,T-shirt,Style Advice,Unsure,Didn't Buy,1,2.1
+8,Young Adult,Cargo Pants,Colour Choice,Happy,Bought,2,2
+9,Adult,Hoodie,Price Check,Neutral,Bought,3,4.8
+10,Elder,Jumper,Return/Exchange,Frustrated,Didn't Buy,2,2.5
+11,Child,T-shirt,Colour Choice,Happy,Bought,2,2.6
+12,Teen,Jacket,Size Check,Neutral,Bought,2,2
+13,Young Adult,Accessories,Price Check,Unsure,Didn't Buy,3,2.7
+14,Adult,Jeans,Style Advice,Happy,Bought,2,3.2
+15,Elder,Jacket,Return/Exchange,Frustrated,Didn't Buy,1,1.9
+16,Child,Accessories,Style Advice,Unsure,Didn't Buy,2,2.3
+17,Teen,T-shirt,Colour Choice,Happy,Bought,3,2.9
+18,Young Adult,Cap,Size Check,Neutral,Bought,1,2.1
+19,Adult,Cargo Pants,Price Check,Happy,Bought,3,2.5
+20,Elder,T-shirt,Style Advice,Unsure,Didn't Buy,2,4.6
+21,Child,Joggers,Price Check,Neutral,Bought,2,1.8
+22,Teen,Hoodie,Size Check,Unsure,Bought,1,2
+23,Young Adult,T-shirt,Colour Choice,Happy,Bought,2,3.2
+24,Adult,Cargo Pants,Return/Exchange,Frustrated,Didn't Buy,4,2.8
+25,Elder,Cap,Price Check,Neutral,Bought,3,2.5
+26,Child,T-shirt,Style Advice,Unsure,Bought,2,2.1
+27,Teen,Jacket,Size Check,Happy,Didn't Buy,5,3
+28,Young Adult,Hoodie,Style Advice,Neutral,Bought,4,2.3
+29,Adult,T-shirt,Colour Choice,Happy,Bought,1,2.7
+30,Elder,Joggers,Return/Exchange,Frustrated,Bought,2,2.9
+31,Child,Cap,Colour Choice,Neutral,Didn't Buy,3,4
+32,Teen,T-shirt,Style Advice,Unsure,Bought,2,5.2
+33,Young Adult,Cargo Pants,Price Check,Happy,Didn't Buy,2,2.1
+34,Adult,Joggers,Size Check,Neutral,Bought,1,2.5
+35,Elder,T-shirt,Colour Choice,Happy,Didn't Buy,2,1.3
+36,Child,Hoodie,Return/Exchange,Frustrated,Bought,4,2.1
+37,Teen,Cargo Pants,Style Advice,Neutral,Bought,5,2
+38,Young Adult,Cap,Size Check,Unsure,Didn't Buy,1,3.2
+39,Adult,Tumbler,Colour Choice,Happy,Bought,2,2.7
+40,Elder,Joggers,Price Check,Neutral,Didn't Buy,1,1.9
+41,Child,Jumper,Style Advice,Happy,Bought,3,2.4
+42,Teen,T-shirt,Return/Exchange,Frustrated,Didn't Buy,2,4.3
+43,Young Adult,Hoodie,Price Check,Neutral,Bought,4,2.1
+44,Adult,Cap,Style Advice,Unsure,Bought,1,3.5
+45,Elder,T-shirt,Size Check,Happy,Didn't Buy,2,1.8
+46,Child,Jacket,Colour Choice,Neutral,Bought,3,2.2
+47,Teen,Hoodie,Style Advice,Unsure,Bought,1,2.7
+48,Young Adult,Windbreaker,Return/Exchange,Frustrated,Didn't Buy,2,5
+49,Adult,T-shirt,Size Check,Neutral,Didn't Buy,2,2.3
+50,Elder,Joggers,Colour Choice,Happy,Bought,3,2.1
+51,Child,Hoodie,Price Check,Unsure,Bought,3,5.9
+52,Teen,T-shirt,Colour Choice,Happy,Didn't Buy,5,2.3
+53,Young Adult,Cap,Style Advice,Neutral,Bought,5,3.8
+54,Adult,Cargo Pants,Return/Exchange,Frustrated,Bought,4,2.6
+55,Elder,Hoodie,Size Check,Neutral,Didn't Buy,2,2.5
+56,Child,T-shirt,Style Advice,Frustrated,Bought,1,1.7
+57,Teen,Leggings,Colour Choice,Unsure,Didn't Buy,1,2
+58,Young Adult,Joggers,Size Check,Neutral,Bought,3,3.1
+59,Adult,Hoodie,Style Advice,Happy,Bought,2,2.3
+60,Elder,T-shirt,Return/Exchange,Frustrated,Didn't Buy,4,2.7
+61,Child,Joggers,Size Check,Neutral,Bought,2,1.8
+62,Teen,T-shirt,Style Advice,Happy,Bought,2,2.2
+63,Young Adult,Leggings,Colour Choice,Unsure,Didn't Buy,3,2.4
+64,Adult,Caro Pants,Price Check,Neutral,Bought,1,2.6
+65,Elder,Joggers,Style Advice,Happy,Bought,1,4.1
+66,Child,T-shirt,Return/Exchange,Frustrated,Didn't Buy,2,2
+67,Teen,Cap,Size Check,Neutral,Bought,2,2.3
+68,Young Adult,Hoodie,Style Advice,Unsure,Didn't Buy,2,3.1
+69,Adult,Jacket,Colour Choice,Happy,Bought,1,2.7
+70,Elder,T-shirt,Price Check,Neutral,Didn't Buy,2,1.9
+71,Child,Joggers,Style Advice,Neutral,Bought,3,2.2
+72,Teen,T-shirt,Return/Exchange,Frustrated,Didn't Buy,3,2.3
+73,Young Adult,Jacket,Price Check,Neutral,Bought,5,4.1
+74,Adult,Cargo Pants,Style Advice,Unsure,Didn't Buy,4,1.8
+75,Elder,T-shirt,Size Check,Happy,Bought,2,2.2
+76,Child,Shorts,Colour Choice,Neutral,Bought,1,2.7
+77,Teen,Hoodie,Style Advice,Unsure,Didn't Buy,2,2
+78,Young Adult,Cargo Pants,Return/Exchange,Frustrated,Didn't Buy,3,2.3
+79,Adult,Hoodie,Size Check,Neutral,Bought,3,5.1
+80,Elder,Joggers,Colour Choice,Happy,Bought,3,1.9
+81,Child,Jacket,Price Check,Unsure,Didn't Buy,1,2.3
+82,Teen,Cap,Colour Choice,Frustrated,Bought,2,2.8
+83,Young Adult,T-shirt,Style Advice,Neutral,Bought,2,6.5
+84,Adult,Jumper,Return/Exchange,Frustrated,Didn't Buy,5,1.7
+85,Elder,Hoodie,Size Check,Neutral,Bought,3,2
+86,Child,Joggers,Style Advice,Happy,Bought,3,2.1
+87,Teen,T-shirt,Colour Choice,Unsure,Didn't Buy,2,3.3
+88,Young Adult,Windbreaker,Size Check,Neutral,Bought,1,2.7
+89,Adult,Hoodie,Style Advice,Happy,Bought,4,2
+90,Elder,T-shirt,Return/Exchange,Frustrated,Didn't Buy,2,1.8
+91,Child,Hoodie,Size Check,Neutral,Bought,3,5.2
+92,Teen,Joggers,Style Advice,Happy,Bought,2,2.4
+93,Young Adult,Cap,Colour Choice,Unsure,Didn't Buy,1,2.6
+94,Adult,Cargo Pants,Price Check,Neutral,Bought,2,3.1
+95,Elder,Hoodie,Style Advice,Happy,Bought,2,2
+96,Child,T-shirt,Return/Exchange,Frustrated,Didn't Buy,1,2.3
+97,Teen,Joggers,Size Check,Neutral,Bought,2,2.1
+98,Young Adult,Cargo Pants,Style Advice,Unsure,Didn't Buy,2,3.7
+99,Adult,Cap,Colour Choice,Happy,Bought,4,1.5
+100,Elder,Hoodie,Price Check,Neutral,Didn't Buy,3,4.3
